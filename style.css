@@ -1,1 +1,26 @@
-/* Start coding here */
+.container {
+    display: flex;
+    background-color: lightgrey;
+    width: 80%;
+    height: 1200px;
+    padding: 50px 50px;
+    flex-direction: column;
+  }
+  
+  .box-1 {
+    width: 100%;
+    height: 25%;
+    background-color: orange;
+  }
+  
+  .box-2 {
+    width: 100%;
+    height: 25%;
+    background-color: khaki;
+  }
+  
+  .box-3 {
+    width: 100%;
+    height: 50%;
+    background-color: cornflowerblue;
+  }
